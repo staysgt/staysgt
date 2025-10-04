@@ -1,12 +1,9 @@
-Hi! My name is Sarah and I am an aspiring software engineer. I am a second year student at Northeastern University studying Computer Science with a concentration in Software.
+Hi! My name is Sarah and I am an aspiring software engineer. I am a third year student at Northeastern University studying Computer Science with a concentration in Software.
 
 ## Contact Me
 Email: taylor.sarah@northeastern.edu
 LinkedIn: www.linkedin.com/in/staysgt
-
-## GitHub Stats
-![staysgt's GitHub stats](https://github-readme-stats.vercel.app/api?username=staysgt&show_icons=true&theme=dark&count_private=true)
-
+Personal Portfolio: https://staysgt.dev/
 
 <!---
 staysgt/staysgt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
